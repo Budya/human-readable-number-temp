@@ -19,6 +19,8 @@ function toReadable (number) {
 
     console.log(numberStringArrayReversed)
 
+    //go home
+
     
   
 }
